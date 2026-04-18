@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "amigoscomminecraft.aternos.me",
-    "port": 32734,
+    "ip": "AMIGOSDOMINE-T8Ux.aternos.me",
+    "port": 59991
+   ,
     "version": "",
     "try-creative": false
   },
